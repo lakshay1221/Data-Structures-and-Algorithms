@@ -1,3 +1,6 @@
+// Program to sort an array using bubble sort algorithm
+// Best Case Time Complexity = O(n)
+
 #include<iostream>
 #include<ctime>
 
